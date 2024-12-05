@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=7000&color=6CC644&background=0320A900&center=true&vCenter=true&width=420&height=35&lines=Hi+there%2C+I'm+Miguel+Bastos)](https://git.io/typing-svg) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=10000&color=6CC644&background=0320A900&center=true&vCenter=true&width=420&height=35&lines=Hi+there%2C+I'm+Miguel+Bastos)](https://git.io/typing-svg) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
 
 </div>
 
@@ -21,7 +21,7 @@
 
 <br><br>
 
-## <div align="center"><img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="70">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tech Stack&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="70"></div>
+## <div align="center"><img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="70">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=10000&color=6CC644&center=true&vCenter=true&width=420&height=35&lines=Tech+stack)](https://git.io/typing-svg)<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="70"></div>
 
 <br>
 
@@ -37,19 +37,22 @@
 
 <!--
 ## Stats
-<p align="left"> 
+
+<div align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=miguel-mb-cell&theme=radical" alt="miguel-mb-cell" />
     </a> 
-</p>
+</div>
 <br>
-<p align="left">
-    <img align="center"  height="150em" src="https://github-readme-stats.vercel.app/api?username=miguel-mb-cell&show_icons=true&include_all_commits=false&count_private=true&theme=neon" />
-    <img align="center"  height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=miguel-mb-cell&theme=neon&layout=compact"/>
-</p>
+<div align="center">
+    <img align="center"  height="150em" src="https://github-readme-stats.vercel.app/api?username=miguel-mb-cell&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
+    <img align="center"  height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=miguel-mb-cell&theme=radical&layout=compact"/>
+</div>
+
+<br><br>
 -->
 
-## <div align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Snake.webp" alt="Snake" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My Activity&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Snake.webp" alt="Snake" width="50" height="50" /></div>
+## <div align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Snake.webp" alt="Snake" width="50" height="50" />[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=10000&color=6CC644&center=true&vCenter=true&width=420&height=35&lines=My+Activity)](https://git.io/typing-svg)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Snake.webp" alt="Snake" width="50" height="50" /></div>
 
 <div align="center">
     
