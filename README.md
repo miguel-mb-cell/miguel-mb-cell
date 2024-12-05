@@ -19,8 +19,7 @@
 </div>
 
 
-<br>
-<br>
+<br><br>
 
 ## <div align="center"><img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="70">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tech Stack&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="70"></div>
 
@@ -34,9 +33,7 @@
     <img src="https://skillicons.dev/icons?i=git,docker,figma,gitlab" alt="Technologies">
 </div>
 
-<br>
-<br>
-<br>
+<br><br><br>
 
 <!--
 ## Stats
@@ -61,5 +58,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miguel-mb-cell/miguel-mb-cell/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/miguel-mb-cell/miguel-mb-cell/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
+
+<br><br>
+
+<div align="center">
+    
+[![](https://visitcount.itsvg.in/api?id=miguel-mb-cell&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
