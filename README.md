@@ -45,8 +45,9 @@
 </div>
 <br>
 <div align="center">
-    <img align="center"  height="150em" src="https://github-readme-stats.vercel.app/api?username=miguel-mb-cell&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
-    <img align="center"  height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=miguel-mb-cell&theme=radical&layout=compact"/>
+    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=miguel-mb-cell&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
+    <img align="center" height="250em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=miguel-mb-cell&theme=radical"/>
+    <img align="center" height="150em" src="https://streak-stats.demolab.com?user=miguel-mb-cell&locale=en&mode=daily&theme=radical" alt="streak graph"  />
 </div>
 
 <br><br>
