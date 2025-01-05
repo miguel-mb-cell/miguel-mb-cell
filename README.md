@@ -68,7 +68,11 @@
 <br><br>
 
 <div align="center">
-    
+
+ <!--
 [![](https://visitcount.itsvg.in/api?id=miguel-mb-cell&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+-->
+
+![Visitor Count](https://profile-counter.glitch.me/miguel-mb-cell/count.svg)
 
 </div>
